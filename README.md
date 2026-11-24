@@ -1,32 +1,22 @@
 ## hey, i'm umut
 
-Mostly writing Rust these days. I also know my way around Java, TypeScript, Svelte and whatever else a project ends up needing.
+I write Rust most days, and Java, TypeScript or Svelte when a project needs it. I like small tools that do one thing properly.
 
-Right now I'm working on **Trawl**, a download manager I started because I got tired of the ones out there. Rust + Tauri on the back, Svelte for the UI, and a browser extension that catches videos and files right off the page.
+<a href="https://github.com/saiv0n/pinna">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiv0n/pinna/main/docs/img/card-dark.png">
+    <img src="https://raw.githubusercontent.com/saiv0n/pinna/main/docs/img/card-light.png" width="420" alt="Pinna">
+  </picture>
+</a>
 
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=white)
+### [pinna](https://github.com/saiv0n/pinna)
 
-### right now
+My AirPods worked on Linux, but only as a plain headset. No battery, no noise control, no settings. Pinna fixes that: it talks to the buds the way an iPhone does and puts everything in a native Qt app, with a tray icon, a card when you open the case, and a mic that doesn't turn your calls into a phone line. Rust underneath. Windows and Android are next.
 
-- getting trawl ready for a first release
-- learning German, one Nebensatz at a time
+### [trawl](https://github.com/saiv0n/trawl)
 
-### projects
+A download manager I started because I didn't like the ones out there. Multiple connections per file, downloads that survive a crash, video from most sites through yt-dlp, and a browser extension that takes over your downloads. Rust and Tauri, Svelte for the UI.
 
-**[trawl](https://github.com/saiv0n/trawl)** · multi-connection downloads that survive crashes, YouTube and 1800+ other sites through yt-dlp, and a Chrome/Firefox extension that takes over your downloads.
+### [nebensaetze](https://github.com/saiv0n/nebensaetze)
 
-**[nebensaetze](https://github.com/saiv0n/nebensaetze)** · a small site I made while learning German, all about subordinate clauses and where the verb goes. [live here](https://nebensaetze.vercel.app)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiv0n&layout=compact&hide_border=true&theme=transparent&hide=html,css" height="150">
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiv0n/saiv0n/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/saiv0n/saiv0n/output/snake.svg">
-</picture>
+A small site I made while learning German, about subordinate clauses and where the verb ends up. [nebensaetze.vercel.app](https://nebensaetze.vercel.app)
