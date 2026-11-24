@@ -31,4 +31,4 @@ An n8n workflow that reads contact form and inbox messages, sorts them into lead
 
 ### working with me
 
-If you need something like the projects above, or a fix to a scraper or automation you already have, open an issue on any of these repos with a short description and I'll get back to you within a day.
+If you need something like the projects above, or a fix to a scraper or automation you already have, everything is on [saivon.dev](https://saivon.dev). You can also open an issue on any of these repos with a short description and I'll get back to you within a day.
